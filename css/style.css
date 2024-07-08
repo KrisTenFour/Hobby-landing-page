@@ -50,7 +50,7 @@ img,
 h1 {
   margin: 20px auto;
   padding: 5px;
-  font-size: 45px;
+  font-size: 40px;
 }
 
 h2 {
@@ -111,7 +111,7 @@ footer {
 .grid img {
   position: relative;
   width: 95%;
-  filter: grayscale(80%);
+  filter: grayscale(90%);
   transition: all 250ms ease-in-out;
 }
 
