@@ -127,6 +127,10 @@ footer {
   margin: 20px auto;
 }
 
+footer p {
+  font-size: 12px;
+}
+
 .dark {
   background-color: #e5e5f7;
   opacity: 0.9;
