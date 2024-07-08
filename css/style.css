@@ -48,7 +48,7 @@ img,
 }
 
 h1 {
-  margin: 20px auto;
+  margin: 30px auto;
   padding: 5px;
   font-size: 40px;
 }
@@ -71,15 +71,15 @@ footer {
 }
 
 .container {
-  max-width: 895px;
+  max-width: 75%;
   margin: 0 auto;
   text-align: center;
 }
 
 .wrapper {
   padding: 10px 40px;
-  border: 1mm solid #1b1b1b;
-  border-radius: 6mm;
+  border: 0.5mm solid #9502df;
+  border-radius: 4mm;
   box-shadow: 0 0 20px #9502df;
   background: linear-gradient(to top, #1b7e49e3 25%, #42da7ce3 50%);
 }
@@ -110,7 +110,7 @@ footer {
 
 .grid img {
   position: relative;
-  width: 95%;
+  width: 80%;
   filter: grayscale(90%);
   transition: all 250ms ease-in-out;
 }
