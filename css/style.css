@@ -111,7 +111,7 @@ footer {
 .grid img {
   position: relative;
   width: 95%;
-  filter: grayscale(60%);
+  filter: grayscale(80%);
   transition: all 250ms ease-in-out;
 }
 
