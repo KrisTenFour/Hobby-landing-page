@@ -81,7 +81,7 @@ footer {
 }
 
 .intro-image {
-  width: 75%;
+  width: 60%;
 }
 
 .intro-image-caption {
@@ -176,6 +176,7 @@ footer p {
 
 @media (max-width: 765px) {
   h1 {
+    margin: 20px auto;
     font-size: 32px;
   }
 
@@ -185,6 +186,10 @@ footer p {
 
   .wrapper {
     padding: 0 25px;
+  }
+
+  .intro-image {
+    width: 65%;
   }
 
   .main-body {
@@ -207,6 +212,7 @@ footer p {
   }
 
   h1 {
+    margin: 18px auto;
     font-size: 28px;
   }
 
@@ -222,7 +228,7 @@ footer p {
 
   .main-body {
     margin-bottom: 35px;
-    padding: 5px 18px;
+    padding: 2px 18px;
   }
 
   .main-body-link {
